@@ -1,0 +1,17 @@
+.footer{
+  height: 60px;
+  align-items: center;
+  background: #0D152B;
+  position: sticky;
+  z-index: 100;
+  width: 100% !important;
+  text-align: center;
+  bottom: 0;
+}
+.footer>h5{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    align-items: center;
+    padding-top: 15px;
+}
